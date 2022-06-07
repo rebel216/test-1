@@ -1,56 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Test-jest
 
-# Project Name
-
-> Description the project.
-
+> An exercise to test different functions using jest.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+- Any code editor
 
 ### Install
 
-### Usage
+- npm install --save-dev jest
+- jest --init
 
 ### Run tests
 
-### Deployment
-
-
+- npm test
 
 ## Authors
 
-👤 **Author1**
+👤 **Addisu Haile**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Addisu87](https://github.com/Addisu87)
+- Twitter: [@AddisuTedla](https://twitter.com/AddisuTedla)
+- LinkeIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
 
 ## 🤝 Contributing
 
