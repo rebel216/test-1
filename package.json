@@ -4,6 +4,12 @@
     "watch": "jest --watch *.js"
   },
   "devDependencies": {
-    "jest": "^28.1.1"
+    "eslint": "^7.32.0",
+    "hint": "^6.2.0",
+    "jest": "^28.1.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
   }
 }
