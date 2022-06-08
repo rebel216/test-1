@@ -5,10 +5,7 @@
 ## Built With
 
 - JavaScript
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- JEST
 
 ## Getting Started
 
@@ -17,6 +14,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - Any code editor
+- Terminal
 
 ### Install
 
@@ -31,9 +29,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Addisu Haile**
 
-- GitHub: [Addisu87](https://github.com/Addisu87)
-- Twitter: [@AddisuTedla](https://twitter.com/AddisuTedla)
-- LinkeIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
+- GitHub: [rebel216](https://github.com/Addisu87)
+- Twitter: [@rebel216](https://twitter.com/AddisuTedla)
+- LinkeIn: [NeerajBhardwaj]((https://www.linkedin.com/in/neeraj-bhardwaj-06491522a/))
 
 ## 🤝 Contributing
 
